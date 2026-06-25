@@ -1,0 +1,26 @@
+{
+  "rmse_test": 54.28482955230169,
+  "mae_test": 43.65827647281328,
+  "mape_test": 10.897504259563304,
+  "r2_test": 0.37859042907434937,
+  "window": 48,
+  "horizon": 24,
+  "n_fitur": 15,
+  "fitur_input": [
+    "tinggi_pasut",
+    "u_arus",
+    "v_arus",
+    "mag_arus",
+    "Hs_gelombang",
+    "Tp_gelombang",
+    "kec_angin",
+    "angin_sin",
+    "angin_cos",
+    "curah_hujan",
+    "jam_sin",
+    "jam_cos",
+    "bulan_sin",
+    "bulan_cos",
+    "konsentrasi_plastik"
+  ]
+}
